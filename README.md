@@ -22,3 +22,5 @@ Ideally, the user will go through the process of selecting the specific data the
 Lastly, the web scraper will output all the data that has been collected into a format that is more useful to the user.
 
 Most web scrapers will output data to a CSV or Excel spreadsheet, while more advanced scrapers will support other formats such as JSON which can be used for an API.
+
+(1): https://www.parsehub.com/blog/what-is-web-scraping/
